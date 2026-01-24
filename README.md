@@ -1,11 +1,11 @@
 # Click-Wheel-Revenue & Pofitability -Analysis
 This project shows visibility into revenue and profitability performance for the Retail management to better understand which product categories drive revenue and profit from 2016-2020 of a fictional dataset.
  
-Data
+# Data
 •	Global Retail sales dataset
 •	Includes sales data, product data, and customer data.
 
-Tools
+# Tools
 •	Power BI
 •	Excel
 
