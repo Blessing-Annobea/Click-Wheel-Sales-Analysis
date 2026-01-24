@@ -2,15 +2,16 @@
 This project shows visibility into revenue and profitability performance for the Retail management to better understand which product categories drive revenue and profit from 2016-2020 of a fictional dataset.
  
 # Data
-•	Global Retail sales dataset
-•	Includes sales data, product data, and customer data.
+•	Global Retail sales dataset which includes sales data, product data, and customer data.
 
 # Tools
 •	Power BI
+
 •	Excel
 
-What I Did
+# What I Did
 •	Cleaned and prepared the global retail sales data.
+
 •	Created measures for total revenue, total profit, total cost, profit margin, and total orders
 •	Built an interactive Power BI dashboard with KPIs, trends, and category analysis
 •	Analysed profitability and performance differences across product categories
